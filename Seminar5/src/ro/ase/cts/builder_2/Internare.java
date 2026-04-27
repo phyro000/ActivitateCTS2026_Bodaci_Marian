@@ -1,7 +1,7 @@
-package ro.ase.cts.builder_1.clase;
+package ro.ase.cts.builder_2;
 
 public class Internare {
-    private String numePacient;
+
     private boolean patRabatabil;
     private boolean micDejun;
     private boolean papuciCamera;
