@@ -1,4 +1,8 @@
 package ro.ase.cts.strategy.clase;
 
-public class Grila {
+public class Grila  implements ModSustinere{
+    @Override
+    public void sustinereExamen() {
+        System.out.println("Vei sustine examenul la grila");
+    }
 }
